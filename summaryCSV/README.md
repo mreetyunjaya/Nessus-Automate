@@ -8,10 +8,8 @@ git clone https://github.com/mreetyunjaya/Nessus-Automate.git
 ## Requirements
 ```bash
 chmod+x python3.7.3.sh
-```
-
 pip install -r requirements.txt
-
+```
 
 ## Usage
 ```bash
